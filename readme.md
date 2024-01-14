@@ -1,4 +1,4 @@
-# ASU-Canvas=Playposit-Helper
+# ASU-Canvas-Playposit-Helper
 
 A userscript to fix video player issues of [ASU Canvas](https://canvas.asu.edu) (the website to take ASU online courses)
 
