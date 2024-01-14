@@ -11,7 +11,6 @@
 // @grant unsafeWindow
 // @require https://raw.githubusercontent.com/nendonerd/waitForKeyElements.js/master/waitForKeyElements.js
 // @require https://cdn.jsdelivr.net/npm/pdfjs-dist@2.13.216/build/pdf.min.js
-// @namespace https://greasyfork.org/users/910724
 // ==/UserScript==
 
 ///////////////
