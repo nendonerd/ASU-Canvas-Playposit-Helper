@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         ASU Canvas Playposit Helper
-// @version      0.1
+// @version      0.2
 // @description  Fix video player issues of ASU Canvas with Playposit
 // @author       Nendo
 // @homepage     https://github.com/nendonerd/ASU-Canvas-Playposit-Helper
