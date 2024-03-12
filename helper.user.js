@@ -36,10 +36,10 @@ if (document.URL.startsWith(canvasUrl)) {
       height: "100%",
     })
 
-    const iframeContainer = iframe.parentNode
+    const iframeContainer = document.querySelector(".lti-embed-container") || iframe.parentNode
     Object.assign(iframeContainer.style, {
       width: "100%",
-      height: "1200px",
+      "aspect-ratio": "16 / 11",
     })
   })
 } else if (playPositUrl) {

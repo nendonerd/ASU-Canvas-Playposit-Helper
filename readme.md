@@ -51,3 +51,8 @@ player = document.querySelector('#posit-wrapper > [class^="vi-player"]').__vue__
   - [x] stop expanding playlist on page load
   - [x] scroll video player to the top
   - [ ] add download button
+  - [ ] add spacebar shortcut
+  - [ ] check if p/n works in all conditions
+  - [ ] fix p/n not working (move the control in to playposit instead of the video player)
+  - [ ] persist play speed and volume settings
+  - [ ] override default scroll function to stop arrow key cause scrolling
